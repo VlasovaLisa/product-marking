@@ -1,0 +1,9 @@
+images/
+data/rotated/
+demo/
+docs/Безродный_отчет_Маркировка_продукции.pdf
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
